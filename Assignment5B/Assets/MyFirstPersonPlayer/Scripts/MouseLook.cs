@@ -1,5 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
+/*
+ * (Austin Buck)
+ * (Assignment 5B)
+ * (Controls the mouse movement for the camera)
+ */
 using UnityEngine;
 
 public class MouseLook : MonoBehaviour

@@ -1,5 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
+/*
+ * (Austin Buck)
+ * (Assignment 5B)
+ * (Controls player movement)
+ */
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour

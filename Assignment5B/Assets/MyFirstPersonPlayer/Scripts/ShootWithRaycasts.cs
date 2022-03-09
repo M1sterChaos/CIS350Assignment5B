@@ -1,5 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
+/*
+ * (Austin Buck)
+ * (Assignment 5B)
+ * (When mouse 1 is pressed the gun fires a raycast)
+ */
 using UnityEngine;
 
 public class ShootWithRaycasts : MonoBehaviour

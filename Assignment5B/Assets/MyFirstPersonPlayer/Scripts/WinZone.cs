@@ -1,5 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
+/*
+ * (Austin Buck)
+ * (Assignment 5B)
+ * (This displays the win text when you hit the trigger)
+ */
 using UnityEngine;
 using UnityEngine.UI;
 

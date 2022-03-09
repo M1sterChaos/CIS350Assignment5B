@@ -1,5 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
+/*
+ * (Austin Buck)
+ * (Assignment 5B)
+ * (Makes the enemies take damage)
+ */
 using UnityEngine;
 
 public class Target : MonoBehaviour
